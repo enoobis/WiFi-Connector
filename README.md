@@ -8,12 +8,12 @@ this app connects and disconnects from wifi network every 2 seconds
 
 ## How to use
 
-1. Clone this repository or download the `wifi_connector.py` file.
+1. Clone this repository or download the `main.py` file.
 2. Install the tkinter library if you don't have it already:
     ```
     pip install tkinter
     ```
-3. Open a terminal and navigate to the directory where `wifi_connector.py` is located.
+3. Open a terminal and navigate to the directory where `main.py` is located.
 4. Run the script:
     ```
     python main.py
